@@ -1,6 +1,6 @@
 ### Hi there, I'm Musa Furkan 👋 
 
-## I'm a full stack software engineer!!
+## I'm a full stack software engineer and blockchain enthusiast!!
 
 - 🌱 I’m currently working on my university's communication network project, BiHaber🔥
 
