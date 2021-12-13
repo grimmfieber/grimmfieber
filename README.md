@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Traveller!!
 
-- 🌱 I’m currently working on my university's communication network project, BiHaber�
+- 🌱 I’m currently working on my university's communication network project, BiHaber🔥
 
 
 ### Connect with me:
