@@ -1,6 +1,6 @@
 ### Hi there, I'm Musa Furkan 👋 
 
-## I'm a Student, Developer, and Traveller!!
+## I'm a full stack software engineer!!
 
 - 🌱 I’m currently working on my university's communication network project, BiHaber🔥
 
