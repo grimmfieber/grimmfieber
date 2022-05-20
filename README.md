@@ -32,11 +32,11 @@
 <br />
 <br />
 
-### Some reference works 
+### Some reference projects 
 <!-- REFERENCES:START -->
 Kolaysat E-Trading platform: http://kolaysat.net/
 BiHaber Academic Notification System: http://bihaber.menuqrkod.online
-<-- REFRENCES:END -->
+<-- REFERENCES:END -->
 
 
 
