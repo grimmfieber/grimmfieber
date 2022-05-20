@@ -2,7 +2,7 @@
 
 ## I'm a full stack software engineer and blockchain enthusiast!!
 
-- 🌱 I’m currently working on my university's communication network project, BiHaber🔥
+- 🌱 I’m currently creating API of Turkish Employment Agency's magazine platform🔥
 
 
 ### Connect with me:
