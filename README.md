@@ -34,8 +34,8 @@
 
 ### Some reference projects 
 <!-- REFERENCES:START -->
--[Kolaysat E-Trading platform:] http://kolaysat.net/
--[BiHaber Academic Notification System:] http://bihaber.menuqrkod.online
+- [Kolaysat E-Trading platform] (http://kolaysat.net/)
+- [BiHaber Academic Notification System] (http://bihaber.menuqrkod.online)
 <-- REFERENCES:END -->
 
 
