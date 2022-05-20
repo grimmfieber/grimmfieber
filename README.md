@@ -32,6 +32,14 @@
 <br />
 <br />
 
+### Some reference works 
+<!-- REFERENCES:START -->
+Kolaysat E-Trading platform: http://kolaysat.net/
+BiHaber Academic Notification System: http://bihaber.menuqrkod.online
+<-- REFRENCES:END -->
+
+
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
