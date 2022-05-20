@@ -36,7 +36,7 @@
 <!-- REFERENCES:START -->
 - [Kolaysat E-Trading platform](http://www.kolaysat.net)
 - [BiHaber Academic Notification System](http://www.bihaber.menuqrkod.online)
-<-- REFERENCES:END -->
+<!-- REFERENCES:END -->
 
 
 
