@@ -2,7 +2,7 @@
 
 ## I'm a full stack software engineer and blockchain enthusiast!!
 
-- 🌱 I’m currently creating API of Turkish Employment Agency's magazine platform🔥
+- 🌱 I’m currently learning nodeJS and Nest🔥
 
 
 ### Connect with me:
