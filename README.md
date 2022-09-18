@@ -2,7 +2,7 @@
 
 ## I'm a full stack software engineer and blockchain enthusiast!!
 
-- 🌱 I’m currently learning nodeJS and Nest🔥
+- 🌱 I’m currently developing salesforce applications🔥
 
 
 ### Connect with me:
