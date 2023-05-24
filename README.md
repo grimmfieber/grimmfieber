@@ -2,7 +2,7 @@
 
 ## I'm a full stack software engineer and blockchain enthusiast!!
 
-- 🌱 I’m currently developing salesforce applications🔥
+- 🌱 I’m currently developing salesforce commerce cloud b2c applications🔥
 
 
 ### Connect with me:
