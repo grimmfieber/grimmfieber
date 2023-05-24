@@ -32,9 +32,10 @@
 <br />
 <br />
 
-### Reference projects 
+### projects 
 <!-- REFERENCES:START -->
-- [Kolaysat E-Trading platform](http://www.kolaysat.net)
+- [Nice E-Commerce platform](https://www.nice.com.sa/ar/)
+- [Kolaysat E-Commerce platform](http://www.kolaysat.net)
 - [BiHaber Academic Notification System](http://www.bihaber.menuqrkod.online)
 <!-- REFERENCES:END -->
 
