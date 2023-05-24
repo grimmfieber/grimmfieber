@@ -32,7 +32,7 @@
 <br />
 <br />
 
-### projects 
+### Projects 
 <!-- REFERENCES:START -->
 - [Nice E-Commerce platform](https://www.nice.com.sa/ar/)
 - [Kolaysat E-Commerce platform](http://www.kolaysat.net)
